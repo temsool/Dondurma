@@ -3,11 +3,7 @@ Dondurma
 
 Dondurma - Onepage Personal Site
 
-
-
-	<h3>Features</h3>
-<p>
-	Don’t forget to rate <img src="assets/images/image_1.png"><img src="assets/images/image_1.png"><img src="assets/images/image_1.png"><img src="assets/images/image_1.png"><img src="assets/images/image_1.png"> if you enjoy the product!</p>
+DEMO: <a href="http://amindiary.com/demo/dondurma/">http://amindiary.com/demo/dondurma/</a>
 <h2>
 	Features</h2>
 <ul>
