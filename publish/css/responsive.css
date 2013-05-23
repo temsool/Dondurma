@@ -1,0 +1,312 @@
+@media (min-width:610px) and (max-width:1025px) {
+  .exp-item:last-child:before {
+    background-color: #434C53;
+  }
+   
+}
+@media all and (min-width:1025px) {
+
+.content-holder,.menu-holder{
+    width: 1024px;
+    margin: 0 auto;
+}
+}
+
+@media all and (min-width:1px) and (max-width:650px){
+    .big-icon {
+    display: block;
+   
+    margin: 0 auto 10px auto;
+ 
+}
+
+.feature-item
+{
+   
+    text-align: center;
+}
+.features-holder {
+   padding-left: 50px;
+    margin: 0 auto;
+}
+}
+@media all and (min-width:500px) and (max-width:650px){
+.portfolio-item, .portfolio-holder, .caroufredsel_wrapper {
+    margin: 0 auto !important;
+    width: 450px !important;
+}
+.map-holder{
+    width: 82.6%;
+  margin-left: 9.5%;
+}
+.features-holder {
+    width: 370px;
+   
+}
+
+}
+@media all and (min-width:760px) and (max-width:820px){
+    .about-holder {
+    margin-left: 80px;
+    width: 100%;
+}
+   
+    .item-column {
+  
+    margin-right: 30px;
+   
+}
+.caroufredsel_wrapper {
+    height: 280px !important;
+  
+}
+.prev-btn {
+    left: 10px;
+   
+}
+
+.next-btn {
+    right: 10px;
+   
+}
+.contact-badge i {
+   
+    font-size: 40px;
+   
+}
+.contact-badge .title {
+   
+    font-size: 15px;
+   
+    margin-bottom: 0;
+}
+.contact-badge .value {
+   
+    font-size: 12px;
+}
+
+}
+
+
+    
+
+@media all and (min-width:1px) and (max-width:499px){
+   .map-holder {
+    margin-left: 11.6%;
+    width: 80%;
+}
+    .clients-section .title {
+  
+    font-size: 20px;
+}
+.prev-btn {
+    left: 40px;
+    top: 70px;
+}
+.next-btn {
+    right: 40px;
+    top: 70px;
+}
+.portfolio-holder {
+
+    min-height: 270px;
+}
+.clients-section .title-holder {
+   
+    height: 20px;
+}
+     .features-holder{
+        width: 90%;
+    }
+       .portfolio-item, .portfolio-holder, .caroufredsel_wrapper {
+    margin: 0 auto !important;
+    width: 300px !important;
+}
+
+.item-column {
+ 
+    padding-left: 23px;
+}
+.caroufredsel_wrapper {
+    height: 530px !important;
+    margin-left: 20px !important;
+    width: 400px !important;
+}
+}
+
+@media all and (min-width:500px) and (max-width:610px){
+    
+    .portfolio-holder{
+        min-height: 370px;
+    }
+.next-btn{
+    right: 20px;
+}
+.prev-btn{
+     left: 20px;
+}
+.prev-btn, .next-btn {
+  
+    top: 110px ;
+    
+}
+.item-column {
+ 
+    padding-left: 23px;
+}
+.caroufredsel_wrapper{
+     margin-left: 14px !important;
+    height: 360px!important;
+    width: 550px!important;
+}
+}
+
+@media (min-width:600px) and (max-width:810px){
+      .big-icon {
+  
+    height: 30px;
+   
+    padding: 20px;
+  
+    width: 30px;
+}  
+.skill-title {
+
+    font-size: 15px;
+}
+.feature-item .big-icon i {
+   
+    font-size: 32px;
+  
+}
+.feature-item .title h3 {
+
+    font-size: 21px;
+    line-height: 25px;
+}
+}
+@media all and (min-width:610px){
+
+    
+    .nav.normal{
+        display: block;
+    }
+    .nav.dropdown{
+        display: none;
+    }
+}
+
+
+@media all and (max-width:609px){
+    .contact-badge {
+    margin-bottom: 30px
+    }
+    .contact-form{
+        width: 95%;
+    }
+    .skill {
+    margin-bottom: 40px;
+  
+}
+    .personal-info {
+    margin: 10px 0 30px 5px;
+}
+    .about-holder {
+    margin-left: 30%;
+    width: 60%;
+}
+    .gridster {
+    margin-left: 50px;
+}
+  .text-holder {
+   
+    margin-left: 58px!important;
+    }
+    .section-title {
+    margin: 10px 0 10px 19px;
+   
+}
+    .nav.normal{
+        display: none;
+    }
+    .nav.dropdown{
+        display: block;
+    }
+    .nav-menu {
+  margin-top: 10px;
+    width: 55%;
+}
+.nav {
+    text-align: center;
+}
+}
+@media all and (min-width:1px) and (max-width:400px){
+    .portfolio-item, .portfolio-holder, .caroufredsel_wrapper {
+    margin: 0 auto !important;
+    width: 250px !important;
+     padding-left: 10px;
+}
+.portfolio-item .item-info .title {
+    font-size: 19px;
+  
+}
+.portfolio-item .item-info .short {
+    font-size: 14px;
+}
+    .features-holder {
+    width: 84%;
+}
+.map-holder {
+    margin-left: 18.6%;
+    width: 71%;
+}
+    .clients-section{
+        display: none;
+    }
+    .nav-menu {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.avatar-holder {
+    margin-top: 110px;
+}
+.content-holder {
+    margin: 0 10px 0 0;
+ 
+}
+.gridster {
+display:none;
+
+}
+
+.prev-btn, .next-btn {
+
+    top: 160px;
+}
+
+
+
+.pagination {
+    margin-left: 20px;
+    
+}
+.copyright {
+   margin-left: 0;
+    text-align: center;
+    width: 100%;
+}
+.section-footer .social-icons {
+    text-align: center;
+    width: 100%;
+}
+.next-btn {
+    right: 10px;
+}
+.prev-btn {
+    left: 40px;
+}
+.portfolio-holder {
+    min-height: 200px;
+}
+}
